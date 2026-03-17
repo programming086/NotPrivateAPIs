@@ -40,7 +40,7 @@ This file serves as a reference for contributing to the NotPrivateAPIs DocC bund
   ```
 - **Sections**: Depending on the API, include `## Method`, `## Parameters`, or equivalent sections.
 - **Examples**: A `## Example` section featuring a complete, compilable Swift code snippet (such as a full `UIViewController` or SwiftUI `ContentView`).
-- **Credits**: A `## Credits` section linking to the researcher/developer who discovered the private API on X/Twitter.
+- **Credits**: A `## Credits` section linking to the researcher/developer who discovered the private API on X/Twitter or other social media platforms.
   ```markdown
   ## Credits
 
